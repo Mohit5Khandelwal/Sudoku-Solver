@@ -16,4 +16,4 @@ O(9^(n*n))
 O(n*n)
 
 ### Deployed Here
-<!-- https://parikshit1003.github.io/Sudoku_Solver/  -->
+ https://mohit5khandelwal.github.io/Sudoku-Solver/
