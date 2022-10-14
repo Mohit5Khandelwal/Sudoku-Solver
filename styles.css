@@ -1,0 +1,92 @@
+table#sudoku td {
+    height: 40px;
+    width: 40px;
+    border: solid lightgreen 1px;
+    /* border-radius: 10px; */
+    text-align: center;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+.h{
+  font-size: 20pt;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.H{
+  font-size: 45pt;
+  color: #27AC1E;
+  margin: 0;
+  font-family: arial;
+  font-weight: 100;
+}
+
+.box1{
+    background-color: #0F150E;
+}
+
+.box1:hover{
+    background-color: #272c26;
+}
+
+.box2{
+   background-color: #253424;
+}
+
+.box2:hover{
+   background-color: #3a4839;
+}
+
+button{
+    height: 54px;
+    width: 114px;
+    border: 1px solid white;
+    background-color: #172016;
+    font-size: 20pt;
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+button:hover{
+    height: 54px;
+    width: 114px;
+    border: none;
+    background-color: green;
+    font-size: 20pt;
+    color: white;
+}
+
+.limeColor{
+    color: lime;
+}
+
+table#inputTable td {
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: #42855B;
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+table#inputTable td:hover {
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: #90B77D;
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+table#inputTable{
+    margin-left: 50px;
+}
